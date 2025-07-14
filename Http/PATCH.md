@@ -1,0 +1,1 @@
+El método `PATCH` es utilizado para aplicar modificaciones parciales a un recurso.

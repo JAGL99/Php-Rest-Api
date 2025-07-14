@@ -1,0 +1,1 @@
+El método `DELETE` borra un recurso en específico.

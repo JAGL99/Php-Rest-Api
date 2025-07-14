@@ -1,0 +1,1 @@
+El modo `PUT` reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.
